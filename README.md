@@ -1,4 +1,4 @@
-# Analyse des services de boissons lors de fêtes
+# Analyse des services de boissons lors des fêtes
 
 ## Objectifs
 
